@@ -1,0 +1,1 @@
+INSERT INTO series (id, nome) VALUES (1, 'serie 1');
